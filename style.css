@@ -1,0 +1,24 @@
+/* ELEMENT */
+p{
+    font-style: italic;
+    color: white;
+    background-color: blue;
+}
+/* ID */
+#myid{
+    font-style: italic;
+    color: white;
+    background-color: blue;
+}
+/* CLASS */
+.bgblue{
+    font-style: italic;
+    color: white;
+    background-color: blue;
+}
+/* GROUPING */
+header, footer{
+    font-style: italic;
+    color: white;
+    background-color: blue;
+}
